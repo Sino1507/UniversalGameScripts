@@ -1,3 +1,4 @@
 {
-  "155615604": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Sino1507/UniversalGameScripts/main/CustomScripts/PL.lua'))()"
+  "155615604": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Sino1507/UniversalGameScripts/main/CustomScripts/PL.lua'))()",
+  "2788229376": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Sino1507/UniversalGameScripts/main/CustomScripts/DH.lua'))()"
 }
